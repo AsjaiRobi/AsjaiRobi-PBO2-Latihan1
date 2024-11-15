@@ -13,9 +13,7 @@ import javax.swing.JOptionPane;
  */
 public class Latihan1 extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Latihan1
-     */
+
     public Latihan1() {
         initComponents();
     }
